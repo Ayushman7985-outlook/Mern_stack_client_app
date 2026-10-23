@@ -235,7 +235,7 @@ Local: http://localhost:5173
 # 🌍 Live Deployment
 
 ## Frontend  
-https://mern-stack-client-app.vercel.app
+https://nischalaremanda-react-vite-crud-app.vercel.app/
 
 ## Backend  
 https://nischalaremanda-mern-crud-app.onrender.com/
