@@ -9,11 +9,7 @@ Purpose:
 - Apply dashboard layout (Navbar + Sidebar + Content)
 - Protect routes that require authentication
 
-Concepts Used:
-- React Router v6
-- Protected routes
-- Layout composition
-*/
+
 
 
 // Import React Router components
